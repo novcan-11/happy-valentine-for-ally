@@ -87,7 +87,7 @@ button:hover {
 
     <!-- TEMPAT FOTO -->
     <div class="foto-box">
-        <img src="foto.jpg" alt="Foto Pacarku 💕">
+        <img src="hehe.jpeg" alt="Foto Pacarku 💕">
     </div>
 
     <p>Aku punya sesuatu buat kamu...</p>
