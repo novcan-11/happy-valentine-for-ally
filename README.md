@@ -100,6 +100,8 @@ button:hover {
         Kamu itu hadiah terindah dalam hidup aku 💕<br><br>
         Semoga cinta kita selalu hangat seperti hari ini ❤️<br><br>
         I Love You So Much 💖
+        makasih udahh sabaarrr samaaa akuuu yaaa sayanggg >_<
+        ALWAYS YOU AND ONLY YOUU 
         </p>
     </div>
 </div>
